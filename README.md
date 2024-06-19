@@ -1,2 +1,2 @@
 # trininity
-Web application development practice using Django Rest Framework, React, and Next.js stack
+Web application development practice using Django, React, and Next.js stack
